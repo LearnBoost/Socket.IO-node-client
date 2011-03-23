@@ -1,0 +1,12 @@
+{
+    "name": "socket.io-node-client",
+  , "version": "0.0.1",
+  , "description": "Node.JS Socket.IO client that simulates a variety of browser transports.",
+  , "keywords": [],
+  , "author": "Guillermo Rauch <guillermo@learnboost.com>",
+  , "dependencies": {
+      "websocket-client": "1.0.0"
+    }
+  , "main": "index"
+  , "engines": { "node": "0.4.x" }
+}
